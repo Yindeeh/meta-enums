@@ -1,0 +1,6 @@
+{
+  "name": "{{campaign_name}}",
+  "status": "PAUSED",
+  "objective": "{{objective}}",
+  "special_ad_categories": []
+}
