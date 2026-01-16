@@ -1,6 +1,7 @@
 {
   "name": "{{campaign_name}}",
   "status": "PAUSED",
-  "objective": "{{objective}}",
+  "objective": "{{objective}}", // dit is een enum
   "special_ad_categories": []
+
 }
